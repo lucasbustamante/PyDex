@@ -4,7 +4,8 @@
 
 Pokédex para Raspberry Pi
 (Problemas de desempenho na Raspberry Pi 3,
-Aguardando testes na Raspberry 4
+Aguardando testes na Raspberry 4.
+
 Em PC fluindo perfeitamente)
 
 ## Menu Principal
